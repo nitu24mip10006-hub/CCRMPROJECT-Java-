@@ -1,0 +1,17 @@
+# Ignore Eclipse specific files
+.classpath
+.project
+.settings/
+
+# Ignore build output
+/bin/
+/out/
+
+# Ignore backup data
+/data/backups/
+
+# Ignore OS junk files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
